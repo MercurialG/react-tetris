@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  color: white;
+  background-color: mediumpurple;
+  height: 100vh;
+  padding: 20px;
+}
